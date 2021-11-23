@@ -17,8 +17,9 @@ React savyje turi 2 folderius:
 	5) create index.scss
 	6)	ctrl + C /		npm i sass / 		npm start
 
-Atsidarius si STARTERKIT =>
-	npm start;
+Atsidarius si STARTERKIT is GIT =>
+		npm install
+		npm start
 
 
 
