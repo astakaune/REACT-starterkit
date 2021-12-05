@@ -1,3 +1,22 @@
+REACT Start-up:
+
+https://reactjs.org/docs/create-a-new-react-app.html
+projektu folderyje sukuriame projekto folderis pavdinimu lemuras:
+	5_REACT/		npx create-react-app react-my-learning
+    cd react-my-learning / npm start (sukuriamas Reacto serveris Local:  http://localhost:3000        
+	    Inicijuojasi projektas savaime (susikuria package.json, node_modules, pasckage-lock.json, .gitignore) 
+
+React savyje turi 2 folderius: 
+	1) public (skirta narsyklei) : cia sudeti visi failai, kuriuos mato narsykle. Visi faila bus cia realiam serveryje.
+		index.html: cia surasyta is kur jis gauna icons, images, etc. Nieko cia nekeiciam. Mums idomi tik <div id="root"</div> elementas. cia sukris visas dinamiskai sugeneruoti HTML elementai is js.
+		narsykle uzloadina js faila, 
+	2) src (skirta programuotojui): production mode, src nebus arba jis bus pasleptas. Sie failai yra developinimo serveryje.
+		koreguojama index.js =>  VSC apacioje  {}JavaScript React ikona, iskritusiame meniu => 	JavaScrip React.... (salia Julia).
+	3) sukuriama src/components/Start => visu komponentu pavadinimai prasideda is Didziosios raides
+	4) app.js => rename app.jsx (jei reikia)
+	5) create index.scss
+	6)	ctrl + C /		npm i sass / 	watch sass /	npm start
+
 1) Atsidarius STARTERKIT is GIT =>
 		npm install / npm i
 		npm start
@@ -25,8 +44,3 @@
 
 6) mySQL:
 	- npm install mysql
-
-
-
-
-
