@@ -36,8 +36,7 @@ React savyje turi 2 folderius:
 	- App.js => import axios from "axios";
 
 5) MUI - React UI framework:
-	- npm install @mui/material @emotion/react @emotion/styled;
-	- npm install @mui/material @mui/styled-engine-sc styled-components;
+	- npm install @mui/material @emotion/react @emotion/styled @mui/styled-engine-sc styled-components;
 			import Button from '@mui/material/Button';
 			import Box from '@mui/material/Box'
 			import { Slider } from "@mui/material";
